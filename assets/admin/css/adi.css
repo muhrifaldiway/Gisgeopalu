@@ -1,0 +1,13 @@
+body {
+    background: url(http://mymaplist.com/img/parallax/pinlayer1.png) no-repeat center center fixed;
+    background-color: #444;
+    background: url(http://mymaplist.com/img/parallax/pinlayer2.png) no-repeat center center fixed, url(http://mymaplist.com/img/parallax/pinlayer1.png) no-repeat center center fixed, url(http://www.istartedsomething.com/bingimages/cache/AKHumpbacks_EN-AU1914968143.jpg) no-repeat center center fixed;
+    -webkit-background-size: auto auto;
+    -moz-background-size: auto auto;
+    -o-background-size: auto auto;
+    background-size: auto auto;
+}
+
+.vertical-offset-100 {
+    padding-top: 100px;
+}

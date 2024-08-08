@@ -1,0 +1,97 @@
+/*=============================================
+			Theme Color
+=============================================*/
+a,
+p a,
+p a:hover,
+a:hover,
+a:focus,
+a:active,
+.tg-stars span:after,
+.tg-updateticker strong,
+.tg-prev span,
+.tg-next span,
+.tg-addnav ul li + li:after,
+.tg-search-close,
+.tg-modal-content form fieldset .form-group a:hover,
+.tg-border-heading h2 a:hover,
+.tg-postmetadata li a:hover,
+.tg-btn-border,
+.tg-border-heading h3 a:hover,
+.tg-videotag i,
+.tg-nav .tg-menubox ul li:last-child a,
+.tg-nav .tg-menubox ul li a:hover,
+.tg-footer-nav li a:hover,
+.tg-videothumb-slider .tg-postdata .tg-border-heading h3 a:hover,
+.tg-newsletter h3,
+.tg-detail li i,
+.tg-author-detail .tg-socialicons li a i,
+.tg-header-versionseven .tg-addnav ul li a:hover,
+.tg-header-versionseven .tg-nav > div > ul > li:hover > a,
+.tg-header-versionseven .tg-search-open,
+.tg-header-versionsix .tg-addnav ul li a:hover,
+.tg-header-versionsix .tg-nav > div > ul > li:hover > a,
+.tg-header-versionsix .tg-search-open,
+.tg-header-versionfive .tg-nav > div > ul > li:hover > a,
+.tg-header-versionfive .tg-search-open,
+.tg-header-versionfour .tg-nav > div > ul > li:hover > a,
+.tg-header-versionfour .tg-addnav ul li a:hover,
+.tg-header-versionfour .tg-search-open i,
+.tg-header-versionfive .tg-search-open i,
+.tg-random-post .tg-theme-post h3 a:hover,
+.tg-nav .tg-navigation li.tg-megadropdown > ul > li a:hover{color: #ffcc33;}
+@media (max-width:767px){
+	.tg-nav .tg-navigation li.tg-hasdropdown ul li a:hover{color: #ffcc33;}
+}
+
+/*=============================================
+			Theme Background Color
+=============================================*/
+.tg-btn,
+.tg-theme-tag,
+.tg-weatherbox,
+.tg-prev:hover,
+.tg-next:hover,
+.tg-search-open,
+.tg-socialicons li a:hover,
+.tg-nav ul li.tg-hasdropdown ul li a,
+.tg-searchbox,
+.tg-border-heading:after,
+.tg-section-heading:after,
+.tg-tag-hotstory,
+.tg-btn-border:before,
+.tg-filterbale-nav li a:hover,
+.tg-filterbale-nav li a.active,
+.tg-megamenu-rightbox,
+.tg-megamenu-rightbox:after,
+.po-prev:hover,
+.po-next:hover,
+.tg-tabs-widget .tg-nav-tabs li a:hover,
+.tg-tabs-widget .tg-nav-tabs li.active a,
+.tg-widget-slider.owl-theme .owl-controls .owl-prev:hover .tg-prev,
+.tg-widget-slider.owl-theme .owl-controls .owl-next:hover .tg-next,
+.tg-tags .tg-btn:hover:before,
+.tg-header-versionthree .tg-navigationarea,
+.tg-header-versiontwo .tg-navigationarea,
+.tg-header-versiontwo .tg-nav .navbar-toggle:hover .icon-bar,
+.tg-header-versionthree .tg-nav .navbar-toggle:hover .icon-bar,
+.tg-nav .tg-navigation li.tg-megadropdown > ul > li a:after,
+.tg-nav .tg-navigation li.tg-megadropdown > ul > li:last-child
+{background:#ffcc33;}
+.tg-nav .navbar-toggle:hover{background:#ffcc33 !important;;}
+/*=============================================
+			Theme Border Color
+=============================================*/
+.tg-theme-tag:after,
+.tg-theme-tag:before,
+.tg-tag-hotstory:after,
+.tg-btn-border,
+.tg-filterbale-nav li a.active,
+.tg-filterbale-nav li a:hover,
+.tg-filterbale-nav li a:after,
+.tg-tags .tg-btn:hover
+
+
+
+{border-color: #ffcc33;}
+.tg-breadcrumbs .tg-breadcrumb{border-bottom-color: #ffcc33;}
